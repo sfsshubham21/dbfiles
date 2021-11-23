@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "March 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting with boss",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Food shopping",
+      "day": "March 7th at 2:00pm",
+      "reminder": false
+    }
+  ] , 
+  "userslist": [
+    {
+      "id": "1",
+      "username": "Jane carnival",
+      "groupcode": "ML1",
+      "city": "Vientiane Capital",
+      "profile_image": "/img/votecard.4eac1c25.jpg",
+      "reminder": true,
+      "current_score": 2,
+       "today_score":55,
+       "date" : [
+        {
+        "vote_score": "410",
+         "date" : "4/11/2019",
+         "time" : "16:54",
+         "codes" : "144A6Bre5888A"
+        },
+        {
+          "vote_score": "440",
+           "date" : "4/11/2019",
+           "time" : "16:54",
+           "codes" : "144A6Bre5888A"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "shane warne",
+      "groupcode": "ML1",
+      "city": "Vientiane Capital",
+      "profile_image": "/img/votecard.4eac1c25.jpg",
+      "reminder": true ,
+      "current_score": 20,
+      "today_score":500,
+      "date" : [
+        {
+          "vote_score": "55",
+           "date" : "4/11/2019",
+           "time" : "16:54",
+           "codes" : "144A6Bre5888A"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "brett lee",
+      "groupcode": "ML1",
+      "city": "Vientiane Capital",
+      "profile_image": "/img/votecard.4eac1c25.jpg",
+      "reminder": true ,
+      "current_score": 200,
+      "today_score":75,
+      "date" : [
+         {
+          "vote_score": "20",
+           "date" : "4/11/2019",
+           "time" : "16:54",
+           "codes" : "144A6Bre5888A"
+        }
+      ]
+    }
+  ]
+}
